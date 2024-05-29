@@ -11,7 +11,7 @@
 
 
 - 🔭 At that movement I am high school student
-- 🌱 I’m currently java
+- 🌱 I’m currently learning programming
 - 👯 open source contributor
 - 💬 Ask me about **Spring Boot**, **MongoDB**, **Hibernate**, **PHP**, **SQL**
 - 📫 How to reach me: EzDamire@gmail.com or Telegram: @EZDAMIR
