@@ -16,7 +16,7 @@
 - 💬 Ask me about **Spring Boot**, **MongoDB**, **Hibernate**, **PHP**, **SQL**
 - 📫 How to reach me: EzDamire@gmail.com or Telegram: @EZDAMIR
 - 😄 Pronouns: Pronouns: I, you, he, it, they, this
-- ⚡  Fun fact: I spend almost 2-3 hours Learning everyday
+- ⚡  Fun fact: I spend almost 2-3 hours Learning everyday 
 
 
 <h3 align="left">Languages and Tools:</h3>
