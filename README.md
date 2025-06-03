@@ -10,7 +10,6 @@
 
 
 
-- 🌱 I’m currently learning programming
 - 👯 open source contributor
 - 📫 How to reach me: EzDamire@gmail.com or Telegram: @EZDAMIR
 - 😄 Pronouns: Pronouns: I, you, he, it, they, this
