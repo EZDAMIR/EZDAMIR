@@ -11,9 +11,7 @@
 
 
 - 👯 open source contributor
-- 📫 How to reach me: EzDamire@gmail.com or Telegram: @EZDAMIR
-- 😄 Pronouns: Pronouns: I, you, he, it, they, this
-- ⚡  Fun fact: I spend almost 2-3 hours Learning everyday 
+- 📫 How to reach me: EzDamire@gmail.com or Telegram: @EZDAMIR 
 
 
 
