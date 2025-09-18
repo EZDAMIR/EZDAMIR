@@ -10,8 +10,6 @@
 
 - 👯 open source contributor
 - 🛠️ I build reliable backend services with **FastAPI** + **SQLAlchemy (async)** on **PostgreSQL**  
-- 🧪 I care about tests, clean structure, and CI/CD with **GitHub Actions**  
-- 🤝 Open-source contributor & always happy to review/learn from PRs  
 - 📫 You can reach me via email: ezdamire@gmail.com or social links in github
 
 ---
@@ -40,6 +38,3 @@
 </p>
 
 ---
-
-### Let’s connect
-- ✉️ Open to collaboration and interesting backend problems — feel free to reach out via issues/PRs
